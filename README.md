@@ -3,6 +3,7 @@ Published in the article "Graph Deep Learning-based Retail Dynamic Pricing for D
 
 Settings of appliances:
 
+# WORKDAY SETTING IN SPRING
 | Appliance | ELT |	PLT |	LLT |	HDC |	Consumption (kWh) |	Runtime (minute)|
 | - | - |	- |	- |	- |	- | -	|
 |Oven |	7am |	8am |	9am |	7 |	2.8 |	40 |
@@ -18,3 +19,5 @@ Settings of appliances:
 |Computer|	7pm|	7pm|	9pm|	4|	3|	180|
 |Air Cleaner|	9am|	10am|	4pm|	2|	3|	180|
 |EV Charger|	0am|	3am|	6am|	0|	18|	180|
+
+
